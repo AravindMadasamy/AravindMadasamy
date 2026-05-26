@@ -62,9 +62,9 @@ IoT-based monitoring and automation solution integrating ESP32, sensors, React.j
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AravindMadasamy&show_icons=true&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AravindMadasamy&show_icons=true&theme=github_dark&hide_border=true&border_radius=10)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AravindMadasamy&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AravindMadasamy&layout=compact&theme=github_dark&hide_border=true&border_radius=10)
 
 ---
 
