@@ -84,7 +84,7 @@ IoT-based monitoring and automation solution integrating ESP32, sensors, React.j
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aravind-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aravindmadasamy/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=googlechrome)](https://aravindmadasamy.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=googlechrome)](https://aravindmadasamy.github.io/portfolio/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-AravindMadasamy-black?style=for-the-badge&logo=github)](https://github.com/AravindMadasamy)
 
